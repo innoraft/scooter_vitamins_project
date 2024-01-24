@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f28418eed76ea29550256fbb626cd23f",
+    "content-hash": "a1b3c4ad41202784e01ebf3fb0181e9c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1229,7 +1229,7 @@
         },
         {
             "name": "innoraft/scooter_vitamins",
-            "version": "dev-master",
+            "version": "dev-dev",
             "source": {
                 "type": "git",
                 "url": "git@github.com:innoraft/scooter_vitamins.git",
@@ -1248,7 +1248,6 @@
                 "drupal/core-recommended": "^10.0",
                 "php": "^8.0"
             },
-            "default-branch": true,
             "type": "drupal-profile",
             "extra": {
                 "enable-patching": true

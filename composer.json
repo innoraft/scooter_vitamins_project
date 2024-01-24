@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "innoraft/scooter_vitamins": "dev-master"
+        "innoraft/scooter_vitamins": "dev-dev"
     },
     "require-dev": {
         "drupal/devel": "^5.1",
